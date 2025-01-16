@@ -1,0 +1,27 @@
+# CMOS Workshop
+
+This repository contains resources and documentation for the CMOS Workshop, focusing on CMOS circuit design and simulation using Cadence tools. It includes step-by-step guides, layouts, and simulation outputs for CMOS-based circuits like inverters and NAND gates.
+
+## Overview of CMOS
+
+**CMOS (Complementary Metal-Oxide-Semiconductor)** is a technology used for constructing integrated circuits, including microprocessors, microcontrollers, and other digital logic circuits. CMOS technology utilizes both **NMOS** and **PMOS** transistors to achieve high efficiency, low power consumption, and scalability. Key features include:
+- Low static power dissipation.
+- High noise immunity.
+- High density of logic functions on a chip.
+
+### Key Concepts in This Workshop:
+1. **CMOS Inverter Design**:
+   - Understand the operation of CMOS inverters using NMOS and PMOS transistors.
+   - Simulate the output waveform for an inverter circuit.
+
+2. **NAND Gate Using CMOS**:
+   - Design the layout and schematic for a NAND gate.
+   - Analyze its operation and waveform behavior.
+
+3. **Voltage Source Configuration**:
+   - Use VPulse for providing the necessary input signals to the circuits.
+
+---
+
+## Repository Structure
+
