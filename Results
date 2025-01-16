@@ -1,0 +1,61 @@
+
+---
+
+## Images and Diagrams
+
+### 1. Commands to Open Cadence
+![camand to open cadence](https://github.com/user-attachments/assets/53910397-d919-4fa5-bf61-9ec85f3ae74d)
+
+### 2. CMOS Layout
+![cmos layout](https://github.com/user-attachments/assets/fe1dd324-df2d-4e4e-837c-e20622a24dbb)
+
+### 3. NAND Gate Layout
+![nand gate](https://github.com/user-attachments/assets/c1c4b0a7-3e10-43d9-88e0-6beaf17d456b)
+
+### 4. NMOS Characteristics
+![nmMos_60](https://github.com/user-attachments/assets/a9512369-e9de-4547-ba3e-6db540691bec)
+
+### 5. PMOS Characteristics
+![pMos_60](https://github.com/user-attachments/assets/72a18947-0707-495a-a6e7-307993db2b44)
+
+### 6. Providing VPulse to CMOS
+![providing vpulse to cmos](https://github.com/user-attachments/assets/f8494a59-580d-41f9-b06c-262da911e668)
+
+### 7. Step-by-Step Guides
+**Step 2**  
+![step 2](https://github.com/user-attachments/assets/fc925e24-11b6-4284-88da-86f6b88d3adb)
+
+**Step 3**  
+![step3](https://github.com/user-attachments/assets/8818606f-b105-489b-86b6-a0333f86c8bd)
+
+### 8. CMOS Inverter
+**Inverter Layout**  
+![Cmos inverter](https://github.com/user-attachments/assets/b3a1bd32-6cc9-492f-bc67-0a73a502d06e)
+
+**Inverter Simulation**  
+![Cmos inverter_1](https://github.com/user-attachments/assets/c337b10f-4aff-4ce7-a148-79b9345f3408)
+
+---
+
+## Getting Started
+
+### Prerequisites
+1. **Cadence Virtuoso**:
+   - Ensure that Cadence is installed and properly configured.
+   - Use the command steps provided in `camand_to_open_cadence.png` to launch the tools.
+
+2. **Simulation Setup**:
+   - Use `providing_vpulse_to_cmos.png` to configure voltage sources for your simulations.
+
+3. **Circuit Design**:
+   - Follow the layout images (`cmos_layout.png`, `nand_gate.png`, etc.) for circuit implementation.
+
+---
+
+
+
+---
+
+## Credits
+
+Curated and organized by **[Sahil Mathurkar/SSGMCE]**. Special thanks to all contributors and workshop participants.
